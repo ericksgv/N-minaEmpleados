@@ -1,10 +1,1 @@
-2022-05-14 11:35:31,936 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
-2022-05-14 11:40:22,425 [Worker-14: Creating project "payroll"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.edu.javeriana.sw:payroll:0.0.1-SNAPSHOT @ C:\Users\Lenovo\Desktop\TERCER SEMESTRE\ANÁLISIS Y DISEÑO DE SOFTWARE\Parcial 3\Payroll\payroll\pom.xml.
-2022-05-14 11:40:24,180 [Worker-14: Creating project "payroll"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /payroll/src/main/java
-2022-05-14 11:40:24,206 [Worker-14: Creating project "payroll"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /payroll/src/main/resources
-2022-05-14 11:40:24,304 [Worker-14: Creating project "payroll"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /payroll/src/test/java
-2022-05-14 11:40:24,304 [Worker-14: Creating project "payroll"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /payroll/src/test/resources
-2022-05-14 11:40:31,727 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2022-05-14 11:40:31,787 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
-2022-05-14 11:40:31,788 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2022-05-14 11:40:31,798 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-14 11:57:31,726 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
